@@ -175,61 +175,67 @@ defined('BASEPATH') OR exit('No direct script access allowed');?>
 				<!-- TULISAN -->
 				<font color="#00FFFF">>>>>> Assalamualaikum Warahmatullahi Wabarakatuh <<<<< </font>
 				<font color="#00FFFF">
-					<br></br><br></br>
-					Detik demi detik telah berganti menjadi jam.<br></br>
-					Jam demi jam pun telah berlalu menjadi hari dan bulan.<br></br>
-					Bulan demi bulan pun telah beralih ke tahun berikutnya.<br></br>
-					Langkah demi langkah telah dilalui.<br></br>
-					Berbagai cerita indah dan menyakitkan telah dinikmati.<br></br>
-					Berbagai hal yang membuat tangis dan tawa juga telah dirasakan.<br></br>
-					Semuanya pernah terjadi dan terlewati.<br></br><br></br>
+					<br></br><br>
+					Detik demi detik telah berganti menjadi jam<br>
+					Jam demi jam pun telah berlalu menjadi hari dan bulan<br>
+					Bulan demi bulan pun telah beralih ke tahun berikutnya<br>
+					Langkah demi langkah telah dilalui<br>
+					Berbagai cerita indah dan menyakitkan telah dinikmati<br>
+					Berbagai hal yang membuat tangis dan tawa juga telah dirasakan<br>
+					Semuanya pernah terjadi dan terlewati<br><br>
 
-					Hari ini..<br></br>
-					Dimana hari yang mungkin spesial buat kamu.<br></br>
-					Dan mungkin sebagai hari perenungan buat kamu.<br></br>
-					Karna hari ini..<br></br>
-					Hari dimana mengenang kelahiranmu..<br></br>
-					Hari bertambahnya umurmu..<br></br>
-					Tapi juga hari berkurangnya usiamu di Dunia ini..<br></br><br></br>
+					Hari ini...<br>
+					Dimana hari yang mungkin spesial untukmu<br>
+					Dan mungkin sebagai hari perenungan juga untukmu<br>
+					Karena hari ini...<br>
+					Hari dimana mengenang kelahiranmu<br>
+					Hari bertambahnya umurmu<br>
+					Dan juga hari berkurangnya usiamu di Dunia ini<br><br>
 
-					Pastinya..<br></br>
-					Banyak mimpi dan harapan yang tercipta..<br></br>
-					Doa-doa dipanjatkan di hari bahagiamu.<br></br>
-					Untuk semua hal yang lebih baik dan lebih indah.<br></br>
-					Merubah Sifat.<br></br>
-					Merubah Kepribadian.<br></br>
-					Merubah Pemikiran.<br></br>
-					Merubah Semuanya menjadi lebih baik dan terbaik lagi..<br></br><br></br>
+					Pastinya....<br>
+					Banyak mimpi dan harapan yang tercipta<br>
+					Doa-doa dipanjatkan di hari bahagiamu<br>
+					Untuk semua hal yang lebih baik dan lebih indah<br>
+					Merubah Sifat...<br>
+					Merubah Kepribadian...<br>
+					Merubah Pemikiran...<br>
+					Merubah Semuanya menjadi lebih baik dan terbaik lagi<br>
+					Dan yang terpenting bagaimana kita bisa mengambil hikmah<br>
+					dari apa yang telah berlalu<br><br>
 
-					Barakallahu fie umrik gembell.<br></br>
-					Selamat hari lahir.<br></br>
-					Turut bahagia atas bertambahnya umurmu.<br></br>
-					dan Turut berduka atas berkurangnya usiamu.<br></br>
-					Hanya kata kata dan doa yang bisa tertulis dan terucap.<br></br>
-					Buat kamu..<br></br>
-					Iya, buat kamu yang hari ini berulang tahun.<br></br><br></br>
+					Terus semangat jangan mudah menyerah Karena<br><br>
+					kesuksesan tidak didapat sebelum susah payah<br><br>
+					Yakinlah setiap kesulitan pasti ada kemudahan<br><br>
+					setip kesedihan pasti ada kebahagiaan<br><br>
 
-					Seuntai harapan untukmu.<br></br>
-					Semoga dengan bertambahnya umurmu bertambah pula kedewasaan dan pola pikir yang lebih baik.<br></br>
-					Bertambah pula kreatifitas, serta baktimu kepada orang orang yang harus kau baktikan.<br></br>
-					Semoga tambah cantik, imut, manis, pengertian dll lah pokoknya.<br></br>
-					Terutama bertambahnya kesadaranmu akan pentingnya menuntut ilmu.<br></br>
-					Terus semangat untuk menuntut ilmu untuk mendidik generasi yang lebih baik,<br></br>
-					dan lebih fakih akan dien nya.<br></br>
-					Inget!!! Yang namanya jalan itu gak selamanya mulus dan lurus.<br></br>
-					Jika dalam belajar dakwah tujuanmu tiada mungkin tanpa rintangan.<br></br>
-					Bersemangatlah dalam menggapai apa apa yang bermanfaat bagimu.<br></br><br></br>
+					Barakallahu fie umrik Sayang<br>
+					Turut bahagia atas bertambahnya umurmu<br>
+					dan Turut berduka atas berkurangnya usiamu<br>
+					Hanya kata kata dan doa yang bisa tertulis dan terucap<br>
+					Buat kamu hehehehe...<br>
+					Iya, buat kamu yang hari ini berulang tahun :)<br><br>
 
-					===>>>Barakallahu fie umrik ya gembell cantik.<br></br>
-					===>>>Maaf ya kalau kata kata nya jelek, maklum aja aku bukan mahasiswa jurusan satra,<br></br>
-					 &nbsp;Jadi maklum kalau kata katanya gak karuan.<br></br>
-					===>>>Ooo iya kado ulang tahunya lagi OTW dengan nomor resi (014150045223318)<br></br>
-					 &nbsp;atas nama Nabila Khoiriyah.<br></br>
-					===>>>Maaf yaa aku gak bisa ngasih kado yang mahal dan bagus buat kamu,<br></br>
-					 &nbsp;ditunggu aja kadonya, semoga kamu suka dan bermanfaat.<br></br>
-					===>>>Aku minta tolong sama kamu tolong do`akan kebaikan untuk aku <br></br>
-					 &nbsp;di sela-sela waktu mustajab dan sujudmu agar menjadi pribadi yang lebih baik lagi, makasihh <br></br><br></br>
+					Seuntai harapan untukmu<br>
+					Semoga dengan bertambahnya umurmu bertambah pula kedewasaan dan pola pikir yang lebih baik<br>
+					Bertambah pula kreatifitas, serta baktimu kepada orang orang yang harus kau baktikan<br>
+					Semoga tambah cantik, imut, manis, pengertian dll lah pokoknya<br>
+					Terutama bertambahnya kesadaranmu akan pentingnya mengerti akan orang lain<br>
+					Terus semangat untuk menjadi pribadi yang lebih baik lagi, You are a Strong Women,<br>
+					Inget!!! Yang namanya jalan itu gak selamanya mulus dan lurus<br>
+					Jika dalam menjalani hidup penuh banyak rintangan maka semoga bisa bahagia setelah melewatinya<br>
+					Bersemangatlah dalam menggapai apa apa yang bermanfaat bagimu<br><br>
 
+					===>>>Barakallahu fie umrik Kesayangan abang<br>
+					===>>>Maaf ya kalau kata kata nya jelek, maklum aja aku bukan mahasiswa jurusan satra :)<br>
+					Jadi maklum kalau kata katanya gak karuan<br>
+					===>>>Maaf abang cuman bisa bikin begini aja buat alma maaf kalau ada kata kata yang salah<br>
+					Ini kado sementara untuk alma :) untuk real kadonya nanti nyusul ya sayang :)<br>
+					===>>>Abang minta tolong sama alma tolong do`akan kebaikan untuk Abang, <br>
+					di sela-sela waktu mustajab dan sujudmu agar menjadi pribadi yang lebih baik lagi, <br><br>
+					yang bisa membimbing alma menjadi insan yang berbakti dan doakan abang agar dipermudah disegala urusan<br><br>
+
+					
+					<font color="#009900">From Ade Rahman</font> <br><br>
 					>>>>> Wassalamualaikum Warahmatullahi Wabarakatuh <<<<<
 			  
 				</font>
@@ -245,7 +251,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');?>
 				
 				</script>
 			  </p>
-			  <audio src="<?php echo base_url('assets/mp3/halu.mp3'); ?>" autoplay="autoplay" hidden="hidden"></audio>
+			  <audio src="<?php echo base_url('assets/mp3/halu.mp3'); ?>" autoplay="autoplay" hidden="hidden" loop></audio>
 			</div>
 		  </div>
 		</div>
